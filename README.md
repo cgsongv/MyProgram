@@ -1,2 +1,2 @@
 # MyProgram
-Program I am working on
+functions and program I coded.
